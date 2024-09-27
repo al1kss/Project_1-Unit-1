@@ -58,11 +58,6 @@ To address these concerns, I propose developing a secure password manager app fo
 **Fig8 Flow Diagram of the main part of the code**
 
 
-
-### Data storage
-
-### Sketches of the application (wireframe diagrams)
-
 ### Test plan
 | Task No | Test                                                                     | Type                | Process (input)                                                        | Expected Output                                                                                                                                                                                                                                                               |
 |---------|--------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -102,6 +97,8 @@ There are few tasks only because I try to do everything at once and therefore it
 
 ## Criterion C: Development 
 
+### Video: [link](https://drive.google.com/file/d/16hbjt5T6CFI9H7CJpLJkaaMfpXTPLMW2/view?usp=sharing) 
+
 ### Techniques used
 >Functions
 >
@@ -119,6 +116,7 @@ There are few tasks only because I try to do everything at once and therefore it
 >
 >Used ASCII text to make CLI look good
 >
+
 ### Citation
 Used in my code {:<10} to align text: https://mkaz.blog/working-with-python/string-formatting
 Got idea for list of games: chatgpt.com
